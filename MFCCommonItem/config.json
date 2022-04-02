@@ -1,0 +1,8 @@
+[
+  {
+    "dll": "KERNEL32.dll",
+    "func": "GetTickCount64",
+    "dbg": "GetTickCount64"
+  }
+]
+
