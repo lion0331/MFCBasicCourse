@@ -1,5 +1,4 @@
-﻿
-// MFCAppDlg.cpp: 实现文件
+﻿// MFCAppDlg.cpp: 实现文件
 //
 
 #include "pch.h"
